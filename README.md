@@ -1,6 +1,8 @@
-# Hi there, Thiago here
+# Hey there 👋, Thiago here!
 
-## I'm a Developer, Creator, and lifelong Learner!
+### A little bit about my self:
+![](https://komarev.com/ghpvc/?username=thiagomayrink)
+<br />
 
 - ✍ You can find my projects here [portfolio]
 - 😄 <b>Pronouns:</b> he/him
