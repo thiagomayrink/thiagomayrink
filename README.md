@@ -8,7 +8,7 @@
 - 😄 <b>Pronouns:</b> he/him
 - ⚡ <b>Fun fact:</b> first time I undergo a procedure, asked the surgeon to play some rock, when I woke up it was playing Led Zeppelin - Stairway to Heaven, told him he had great taste for music 
 
-### where to find me:
+### Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thiagoscmpaiva@gmail.com)][mailto] <br />
 
