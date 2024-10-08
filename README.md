@@ -1,12 +1,14 @@
 # Hey there 👋, Thiago here!
 
 ### A little bit about my self:
-![](https://komarev.com/ghpvc/?username=thiagomayrink)
-<br />
 
-- ✍ You can find my projects here [portfolio]
-- 😄 <b>Pronouns:</b> he/him
-- ⚡ <b>Fun fact:</b> first time I undergo a procedure, asked the surgeon to play some rock, when I woke up it was playing Led Zeppelin - Stairway to Heaven, told him he had great taste for music 
+- ✍ You can find some projects here [portfolio]
+- ‍💻 Software Engineer
+- 🎮 Casual Gamer
+- 🧔 Passionate for technology, learning, sharing knowledge, solving problems, and good stories!
+
+In the last 3 years I've been working with ( React / NodeJS / AWS ) payment systems and a bit of DevSecOps, during this time I delivered solutions like Widgets that runs on third-party web apps, serverless solutions to solve complex business problems.
+Currently working with B2B, B2C apps.
 
 ### Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
